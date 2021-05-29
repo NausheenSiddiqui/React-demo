@@ -1,10 +1,12 @@
+import React from 'react'
 import './App.css';
-import Range from './Program1'
+import NominationForm1 from './NominationForm1';
 
 function App() {
+
   return (
     <div className="App">
-      <Range />
+      <NominationForm1 />
     </div>
   );
 }
